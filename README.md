@@ -35,7 +35,9 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- YOUTUBE VIDEOS -->
 <details>
   <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
+
   - [[C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
+
 </details>
 
 <!-- GITHUB STATS -->

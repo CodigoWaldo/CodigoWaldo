@@ -35,8 +35,6 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
   
   - [[C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
 
-
-  
 </details>
 
 <!-- GITHUB STATS -->
@@ -48,24 +46,18 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 
 ---
 
-<!-- SOCIAL LINKS -->
+<!-- Links -->
 <p align="center">
-  <a href="https://kyle-robinson.co.uk">
+  <a href="https://codigowaldo.github.io/">
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=View&color=6E46AE&style=flat&logo=html5&logoColor=9f63ff" />
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/kylerobinsongames/">
+  <a href="https://www.linkedin.com/in/walter-voegeli-650b78211/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin&logoColor=00a8ff" />
   </a> &nbsp;
-  <a href="https://stackoverflow.com/users/story/14250876">
-    <img src="https://img.shields.io/static/v1?label=StackOverflow&message=View&color=EF8236&style=flat&logo=stack-overflow" />
-  </a> &nbsp;
-  <a href="https://twitter.com/KyleRobinson42">
-    <img src="https://img.shields.io/static/v1?color=1DA1F2&label=Twitter&message=Follow&logo=Twitter&style=flat" />
-  </a> &nbsp;
-  <a href="https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/">
+  <a href="https://www.youtube.com/@waldo6748">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a> &nbsp;
-  <a href="https://skyline.github.com/kyle-robinson/2020">
+  <a href="https://github.com/CodigoWaldo">
     <img src="https://img.shields.io/static/v1?label=Skyline&message=View&color=181717&style=flat&logo=github&logoColor=181717" />
   </a>
 </p>

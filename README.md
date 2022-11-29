@@ -4,7 +4,7 @@
 
 # Hi, I'm Waldo! 👋🏻
 
-I'm programmer, software and games.
+I'm programmer, software and games.  
 Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
 

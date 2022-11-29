@@ -13,37 +13,29 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
   <summary>💻 <strong>Languages</strong></summary> <br />
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c_sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/opengl%20-%23ED8E0F.svg?&style=for-the-badge&logo=opengl&logoColor=white">
-
-
-  
+  <img src="https://img.shields.io/badge/opengl%20-%23ED8E0F.svg?&style=for-the-badge&logo=opengl&logoColor=white">  
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
+ 
 </details>
-
-
 
 <!-- Ides y otros -->
 <details>
-  <summary>📝 <strong>Used tools</strong></summary> <br />
+  <summary>📝 <strong>Tools</strong></summary> <br />
   <img src="https://img.shields.io/badge/visual studio%20-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/stack overflow%20-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 </details>
 
 <!-- YOUTUBE VIDEOS -->
 <details>
-  <summary>🎥 <strong>Latest YouTube Videos</strong></summary> <br />
+  <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />
   
-  <!-- YOUTUBE:START -->
-- [[C++ | DirectX] Physics Framework](https://www.youtube.com/watch?v=23r29toUFZo)
-- [[C++ | DirectX] DirectX 11 Graphics Framework](https://www.youtube.com/watch?v=_9_MtRrjU20)
-- [[C++ | SDL2] Mario Bros. Game](https://www.youtube.com/watch?v=LfMLOClO6qs)
-- [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
-- [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
-<!-- YOUTUBE:END -->
+  - [[C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
+
+
   
 </details>
 

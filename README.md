@@ -57,7 +57,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
   <a href="https://www.youtube.com/@waldo6748">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a> &nbsp;
-  <a href="https://github.com/CodigoWaldo">
-    <img src="https://img.shields.io/static/v1?label=Skyline&message=View&color=181717&style=flat&logo=github&logoColor=181717" />
+  <a href="https://sourceforge.net/u/waldovoe/profile">
+    <img src="https://img.shields.io/static/v1?label=SourceForge&message=View&color=ff6600&style=flat&logo=sourceforge&logoColor=ff660" />
   </a>
 </p>

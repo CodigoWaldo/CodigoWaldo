@@ -1,5 +1,5 @@
-<a title="You found a secret... enjoy!" href="https://www.retrogames.cz/play_414-DOS.php?language=EN">
-  <img align="right" width="120" height="160" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png">
+<a title="Gargantua" href="https://www.youtube.com/watch?v=OA3Txp94pjs">
+  <img align="right" width="120" height="160" src="https://cdn.pixabay.com/photo/2021/03/14/21/01/black-hole-6095410_960_720.png">
 </a>
 
 # Hi, I'm Waldo! 👋🏻
@@ -7,7 +7,6 @@
 I'm programmer, software and games.  
 Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
-
 <!-- Lenguajes -->
 <details>
 <summary>💻 <strong>Languages</strong></summary> <br />
@@ -35,10 +34,8 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 
 <!-- YOUTUBE VIDEOS -->
 <details>
-  <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />
-  
+  <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
   - [[C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
-
 </details>
 
 <!-- GITHUB STATS -->

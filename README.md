@@ -1,5 +1,5 @@
 <a title="Gargantua" href="https://www.youtube.com/watch?v=TA7CKxMCR00">
-  <img align="right" width="500" height="160" src="https://cdn.pixabay.com/photo/2021/03/14/21/01/black-hole-6095410_960_720.png">
+  <img align="right" width="160" height="160" src="https://spaceandbeyondbox.com/wp-content/uploads/2021/03/blackholeforlogo_500x500-1.png">
 </a>
 
 # Hi, I'm Waldo! 👋🏻

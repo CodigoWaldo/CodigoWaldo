@@ -11,6 +11,9 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Lenguajes -->
 <details>
   <summary>💻 <strong>Languages</strong></summary> <br />
+
+  <a href="#"><img height="150px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
+
   <img src="https://abrudz.github.io/logos/CPlusPlus.svg">
   <img src="https://img.shields.io/badge/c_sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/opengl%20-%23ED8E0F.svg?&style=for-the-badge&logo=opengl&logoColor=white">  

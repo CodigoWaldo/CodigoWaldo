@@ -12,45 +12,35 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <details>
 <summary>💻 <strong>Languages that i know</strong></summary> <br />  
 <!-- C++ -->  
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" align="center" /></a>  
-● I start programming with C++, I practiced a lot there and write a lot of personal projects in C++. My major experience is with this language.  
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" align="center" /></a><br />  
+● I start programming with C++, I practiced a lot there and write a lot of personal projects in C++. My major experience is with this language. 
 <!-- C# --> 
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>    
-● I use C# in game development because unity enguine works with this language. I learn this lenguage by myself. 
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
+<br />● I use C# in game development because unity enguine works with this language. I learn this lenguage by myself. 
 <!-- OTHERS --> 
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
+<br /><a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Octave.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a>    
-● I learned these languages in the university but just that, not my favorites. 🥱  
-Racket as functional paradigm.  
-Prolog as logic paradigm.  
-Octave because we use it for making mathematical scripts.   
-Java as POO paradigm (like C++).     
-<!-- WEB -->  
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a> <br />   
+● I learned these languages in the university but just that, not my favorites. 🥱<br />  
+- Racket as functional paradigm.  <br />
+- Prolog as logic paradigm.  <br />
+- Octave because we use it for making mathematical scripts.  <br /> 
+- Java as POO paradigm (like C++).     
+<!-- WEB -->  <br />
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a>  
-● I learn these three languages outside of university by myself, and I also did a small course.
+<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a> <br /> 
+● I learn these three languages outside of university by myself, and I also did a course.
   
 <!-- logos by https://github.com/JuliaLang/julia-logo-graphics , https://worldvectorlogo.com/ -->
-</details>
-
-<!-- Ides y otros -->
-<details>
-  <summary>📝 <strong>Tools</strong></summary> <br />
-  <img src="https://img.shields.io/badge/visual studio%20-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/stack overflow%20-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 </details>
 
 <!-- YOUTUBE VIDEOS -->
 <details>
   <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
-
-  - [[C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
+📽 I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />
+  - [![C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
 
 </details>
 

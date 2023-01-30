@@ -10,8 +10,9 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
 <!-- Lenguajes -->
 <details>
-<summary>💻 <strong>Languages</strong></summary> <br />
+<summary>💻 <strong>Languages</strong></summary> <br />  
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
+  asdfasd
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>

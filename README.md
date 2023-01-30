@@ -1,4 +1,4 @@
-<a title="Gargantua" href="https://www.youtube.com/watch?v=TA7CKxMCR00">
+<a title="The colours of the accretion disk should be white and blue." href="https://www.youtube.com/watch?v=TA7CKxMCR00">
   <img align="right" width="160" height="160" src="https://spaceandbeyondbox.com/wp-content/uploads/2021/03/blackholeforlogo_500x500-1.png">
 </a>
 
@@ -10,17 +10,29 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
 <!-- Lenguajes -->
 <details>
-<summary>💻 <strong>Languages</strong></summary> <br />  
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
-  asdfasd  
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
+<summary>💻 <strong>Languages that i know</strong></summary> <br />  
+<!-- C++ -->  
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" align="center" /></a>  
+● I start programming with C++, I practiced a lot there and write a lot of personal projects in C++. My major experience is with this language.  
+<!-- C# --> 
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>    
+● I use C# in game development because unity enguine works with this language. I learn this lenguage by myself. 
+<!-- OTHERS --> 
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Octave.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a>
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a>    
+● I learned these languages in the university but just that, not my favorites. 🥱  
+Racket as functional paradigm.  
+Prolog as logic paradigm.  
+Octave because we use it for making mathematical scripts.   
+Java as POO paradigm (like C++).     
+<!-- WEB -->  
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a>
+<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a>  
+● I learn these three languages outside of university by myself, and I also did a small course.
+  
 <!-- logos by https://github.com/JuliaLang/julia-logo-graphics , https://worldvectorlogo.com/ -->
 </details>
 

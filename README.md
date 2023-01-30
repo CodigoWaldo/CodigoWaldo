@@ -24,8 +24,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a> <br />   
 ● I learned these languages in the university but just that, not my favorites. 🥱<br />  
 - Racket as functional paradigm.  <br />
-- Prolog as logic paradigm.  <br />![imagen](https://user-images.githubusercontent.com/70487661/215370999-397fbcab-2627-46eb-96e4-68c8d94974b0.png)
-
+- Prolog as logic paradigm.  <br />
 - Octave because we use it for making mathematical scripts.  <br /> 
 - Java as POO paradigm (like C++).     
 <!-- WEB -->  <br />

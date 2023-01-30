@@ -12,7 +12,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <details>
 <summary>💻 <strong>Languages</strong></summary> <br />  
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
-  asdfasd
+  asdfasd  
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>

@@ -16,7 +16,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 ● I start programming with C++, I practiced a lot there and write a lot of personal projects in C++. My major experience is with this language. 
 <!-- C# --> 
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
-<br />● I use C# in game development because unity enguine works with this language. I learn this lenguage by myself. 
+<br />● I use C# in game development because unity enguine works with this language.
 <!-- OTHERS --> 
 <br /><a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>
@@ -24,7 +24,8 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a> <br />   
 ● I learned these languages in the university but just that, not my favorites. 🥱<br />  
 - Racket as functional paradigm.  <br />
-- Prolog as logic paradigm.  <br />
+- Prolog as logic paradigm.  <br />![imagen](https://user-images.githubusercontent.com/70487661/215370999-397fbcab-2627-46eb-96e4-68c8d94974b0.png)
+
 - Octave because we use it for making mathematical scripts.  <br /> 
 - Java as POO paradigm (like C++).     
 <!-- WEB -->  <br />
@@ -39,10 +40,8 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- YOUTUBE VIDEOS -->
 <details>
   <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
-📽 I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />
-  - [![C++ | WXformBuilder] Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
-
-</details>
+● I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />  
+[[C++ | WXformBuilder]Tutorial parte 1](https://www.youtube.com/watch?v=WYOP4ve0Yw0&)
 
 <!-- GITHUB STATS -->
 <details>
@@ -56,7 +55,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Links -->
 <p align="center">
   <a href="https://codigowaldo.github.io/">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&message=View&color=6E46AE&style=flat&logo=html5&logoColor=9f63ff" />
+    <img src="https://img.shields.io/static/v1?label=MyWeb&message=View&color=6E46AE&style=flat&logo=html5&logoColor=9f63ff" />
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/walter-voegeli-650b78211/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin&logoColor=00a8ff" />

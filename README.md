@@ -31,7 +31,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a> <br /> 
-● I learn these three languages outside of university by myself, and I also did a course.
+● I learned a bit of these three languages ( HTML, CSS, JS) outside of university by myself, and I also did a course.
   
 <!-- logos by https://github.com/JuliaLang/julia-logo-graphics , https://worldvectorlogo.com/ -->
 </details>

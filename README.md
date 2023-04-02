@@ -16,22 +16,15 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 ● I start programming with C++, I practiced a lot there and write a lot of personal projects in C++. My major experience is with this language. <br />  
 <!-- C# --> 
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
-<br />● I use C# in game development because unity enguine works with this language.
 <!-- OTHERS --> 
 <br /><a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Octave.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a> <br />   
-● I learned these languages in the university but just that, not my favorites. 🥱<br />  
-- Racket as functional paradigm.  <br />
-- Prolog as logic paradigm.  <br />
-- Octave because we use it for making mathematical scripts.  <br /> 
-- Java as POO paradigm (like C++).     
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a> <br />      
 <!-- WEB -->  <br />
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a> <br /> 
-● I learned a bit of these three languages ( HTML, CSS, JS) outside of university by myself, and I also did a course.
   
 <!-- logos by https://github.com/JuliaLang/julia-logo-graphics , https://worldvectorlogo.com/ -->
 </details>

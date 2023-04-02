@@ -11,9 +11,8 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Lenguajes -->
 <details>
 <summary>💻 <strong>Languages that i know</strong></summary> <br />  
-<!-- C++ -->  
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" align="center" /></a>
-<!-- C# --> 
+<!-- C -->  
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
 <!-- OTHERS --> 
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>

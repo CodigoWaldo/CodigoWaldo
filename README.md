@@ -17,11 +17,11 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- C# --> 
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
 <!-- OTHERS --> 
-<br /><a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Octave.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a> <br />      
-<!-- WEB -->  <br />
+<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a>   
+<!-- WEB --> 
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a> <br /> 

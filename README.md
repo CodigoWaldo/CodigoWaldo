@@ -31,7 +31,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <details>
   <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
 ● I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />  
-([Creando una app con c++ y wxformbuilder](https://www.youtube.com/@CodigoWaldo))
+([APP with c++ & wxFormBuilder](https://www.youtube.com/playlist?list=PLiPraAn9feYyVckTARb40x89s492QVq-Z))
 </details>
 
 <!-- GITHUB STATS -->
@@ -51,7 +51,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
   <a href="https://www.linkedin.com/in/walter-voegeli-650b78211/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin&logoColor=00a8ff" />
   </a> &nbsp;
-  <a href="https://www.youtube.com/@waldo6748">
+  <a href="https://www.youtube.com/@CodigoWaldo">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a> &nbsp;
   <a href="https://sourceforge.net/u/waldovoe/profile">

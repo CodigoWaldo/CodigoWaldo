@@ -31,7 +31,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <details>
   <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
 ● I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />  
-([APP with c++ & wxFormBuilder](https://www.youtube.com/playlist?list=PLiPraAn9feYyVckTARb40x89s492QVq-Z))
+  <a href="https://www.youtube.com/playlist?list=PLiPraAn9feYyVckTARb40x89s492QVq-Z"> Make an app with C++ & wxFormBuilder </a>
 </details>
 
 <!-- GITHUB STATS -->

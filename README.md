@@ -38,7 +38,7 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <details>
   <summary>📈 <strong>GitHub Stats</strong></summary> <br />
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api?username=CodigoWaldo&show_icons=true&hide=contribs" /></a> &nbsp;
-  <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoWaldo&layout=compact&hide=objective-c,cmake,c&langs_count=7" /></a>
+  <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoWaldo&layout=compact&hide=objective-c,cmake,c&langs_count=7" /></a>  
 </details>
 
 ---
@@ -58,3 +58,5 @@ Currently studying informatic ing. at university :school: Argentine - Santa Fe.
     <img src="https://img.shields.io/static/v1?label=SourceForge&message=Projects&color=ff6600&style=flat&logo=sourceforge&logoColor=ff660" />
   </a>
 </p>
+
+ [![](https://visitcount.itsvg.in/api?id=waldo&label=ProfileViews&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)  

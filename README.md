@@ -4,7 +4,7 @@
 
 # Hi, I'm Waldo! 👋🏻
 
-Programming since 2016.
+Programming since 2016. <br/>
 Apps, games and web.  
 Currently studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->

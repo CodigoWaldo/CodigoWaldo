@@ -2,15 +2,15 @@
   <img align="right" width="160" height="160" src="https://spaceandbeyondbox.com/wp-content/uploads/2021/03/blackholeforlogo_500x500-1.png">
 </a>
 
-# Hi, I'm Waldo! 👋🏻
+#I'm Waldo.
 
-Programming since 2016. <br/>
+Turning coffe into code since 2016. <br/>
 Apps, games and web.  
-Currently studying informatic ing. at university :school: Argentine - Santa Fe.
+Currently working and studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
 <!-- Lenguajes -->
 <details>
-<summary>💻 <strong>Touched Languages</strong></summary> <br />  
+<summary>💻 <strong>Some touched Languages</strong></summary> <br />  
 <!-- C -->  
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
 <a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>

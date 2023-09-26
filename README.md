@@ -48,9 +48,6 @@ Currently working and studying informatic ing. at university :school: Argentine 
   <a href="https://codigowaldo.github.io/">
     <img src="https://img.shields.io/static/v1?label=MyWeb&message=View&color=6E46AE&style=flat&logo=html5&logoColor=9f63ff" />
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/walter-voegeli-650b78211/">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin&logoColor=00a8ff" />
-  </a> &nbsp;
   <a href="https://www.youtube.com/@CodigoWaldo">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a> &nbsp;

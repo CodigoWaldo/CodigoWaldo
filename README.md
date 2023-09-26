@@ -4,7 +4,7 @@
 
 #I'm Waldo.
 
-Turning coffe into code since 2016. <br/>
+Turning coffe and mates into code since 2016. <br/>
 Apps, games and web.  
 Currently working and studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->

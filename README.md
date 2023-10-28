@@ -8,21 +8,6 @@ Turning coffe and mates into code since 2016. <br/>
 Apps, games and web.  
 Currently working and studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
-<!-- Lenguajes -->
-<details>
-<summary>💻 <strong>Some touched Languages</strong></summary> <br />  
-<!-- C -->  
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CPlusPlus.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/CSharp.svg" /></a>
-<!-- OTHERS --> 
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Racket.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Prolog.png" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Octave.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://abrudz.github.io/logos/Java.svg" /></a>   
-<!-- WEB --> 
-<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
-<a href="#"><img height="50px" width="auto" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" /></a> <br /> 
   
 <!-- logos by https://github.com/JuliaLang/julia-logo-graphics , https://worldvectorlogo.com/ -->
 </details>

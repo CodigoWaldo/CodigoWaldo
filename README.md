@@ -8,9 +8,7 @@ Turning coffe and mates into code since 2016. <br/>
 Apps, games and web.  
 Currently working and studying informatic ing. at university :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
-  
-<!-- logos by https://github.com/JuliaLang/julia-logo-graphics , https://worldvectorlogo.com/ -->
-</details>
+
 
 <!-- YOUTUBE VIDEOS -->
 <details>
@@ -25,6 +23,7 @@ Currently working and studying informatic ing. at university :school: Argentine 
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api?username=CodigoWaldo&show_icons=true&hide=contribs" /></a> &nbsp;
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoWaldo&layout=compact&hide=objective-c,cmake,c&langs_count=7" /></a>  
 </details>
+<a href="https://github.com/CodigoWaldo?tab=stars">Here</a> you can find my repositories listed. 
 
 ---
 

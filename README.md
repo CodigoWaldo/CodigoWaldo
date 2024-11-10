@@ -1,5 +1,5 @@
-<a title="" href="https://www.youtube.com/watch?v=TA7CKxMCR00">
-  <img align="right" width="160" height="160" src="https://spaceandbeyondbox.com/wp-content/uploads/2021/03/blackholeforlogo_500x500-1.png">
+<a title="">
+  <img align="right" width="160" height="160" src="https://raw.githubusercontent.com/CodigoWaldo/CodigoWaldo/refs/heads/main/ilustracion.webp">
 </a>
 
 #Soy Waldo.

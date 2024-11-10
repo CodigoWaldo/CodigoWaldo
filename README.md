@@ -2,19 +2,16 @@
   <img align="right" width="160" height="160" src="https://raw.githubusercontent.com/CodigoWaldo/CodigoWaldo/refs/heads/main/ilustracion.webp">
 </a>
 
-#Soy Waldo.
+👋 Soy Waldo.
 
 Convirtiendo café y mates en código desde 2016. <br/>
-Me gusta la programación orientada a software gráfico.  
-Actual :school: Argentine - Santa Fe.
-<!-- Facultad de ingenieria y ciencias hídricas - UNL -->
-
+Me gusta la programación orientada a software gráfico.   <br/>
+:school: Facultad de ingenieria y ciencias hídricas. 🌎 Argentine - Santa Fe.
 
 <!-- YOUTUBE VIDEOS -->
 <details>
   <summary>🎥 <strong>Videos que subí:</strong></summary> <br />  
-● I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />  
-  <a href="https://www.youtube.com/playlist?list=PLiPraAn9feYyVckTARb40x89s492QVq-Z"> Make an app with C++ & wxFormBuilder </a>
+         <a href="https://www.youtube.com/playlist?list=PLiPraAn9feYyVckTARb40x89s492QVq-Z"> Crea una app con C++ & wxFormBuilder </a>
 </details>
 
 <!-- GITHUB STATS -->
@@ -23,7 +20,7 @@ Actual :school: Argentine - Santa Fe.
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api?username=CodigoWaldo&show_icons=true&hide=contribs" /></a> &nbsp;
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoWaldo&layout=compact&hide=objective-c,cmake,c&langs_count=7" /></a>  
 </details>
-<a href="https://github.com/CodigoWaldo?tab=stars">Here</a> Mis repositorios ordenados. 
+Mis repositorios ordenados <a href="https://github.com/CodigoWaldo?tab=stars">aquí.</a>
 
 ---
 

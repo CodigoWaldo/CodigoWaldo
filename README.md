@@ -1,18 +1,18 @@
-<a title="The colours of the accretion disk should be white and blue." href="https://www.youtube.com/watch?v=TA7CKxMCR00">
+<a title="" href="https://www.youtube.com/watch?v=TA7CKxMCR00">
   <img align="right" width="160" height="160" src="https://spaceandbeyondbox.com/wp-content/uploads/2021/03/blackholeforlogo_500x500-1.png">
 </a>
 
-#I'm Waldo.
+#Soy Waldo.
 
-Turning coffe and mates into code since 2016. <br/>
-Apps, games and web.  
-Currently working and studying informatic ing. at university :school: Argentine - Santa Fe.
+Convirtiendo café y mates en código desde 2016. <br/>
+Me gusta la programación orientada a software gráfico.  
+Actual :school: Argentine - Santa Fe.
 <!-- Facultad de ingenieria y ciencias hídricas - UNL -->
 
 
 <!-- YOUTUBE VIDEOS -->
 <details>
-  <summary>🎥 <strong>YouTube Videos (in spanish)</strong></summary> <br />  
+  <summary>🎥 <strong>Videos que subí:</strong></summary> <br />  
 ● I like to make videos of projects that I do as vlogs and sometimes tutorials. <br />  
   <a href="https://www.youtube.com/playlist?list=PLiPraAn9feYyVckTARb40x89s492QVq-Z"> Make an app with C++ & wxFormBuilder </a>
 </details>
@@ -23,7 +23,7 @@ Currently working and studying informatic ing. at university :school: Argentine 
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api?username=CodigoWaldo&show_icons=true&hide=contribs" /></a> &nbsp;
   <a href="#"><img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodigoWaldo&layout=compact&hide=objective-c,cmake,c&langs_count=7" /></a>  
 </details>
-<a href="https://github.com/CodigoWaldo?tab=stars">Here</a> you can find my repositories listed. 
+<a href="https://github.com/CodigoWaldo?tab=stars">Here</a> Mis repositorios ordenados. 
 
 ---
 

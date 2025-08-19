@@ -6,7 +6,7 @@
 
 • Convirtiendo café y mates en código desde 2016. <br/>
 • Aquí subo algunos de mis proyectos personales como también práctica académica relacionada a la progamación.   <br/>
-• Facultad de ingenieria y ciencias hídricas. Argentina - Santa Fe.
+• Estudiante avanzado en la Facultad de ingenieria y ciencias hídricas. Argentina - Santa Fe.
 
 <!-- YOUTUBE VIDEOS -->
 <details>

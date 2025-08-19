@@ -4,9 +4,9 @@
 
 👋 Soy Waldo.
 
-Convirtiendo café y mates en código desde 2016. <br/>
-Me gusta la programación orientada a software gráfico.   <br/>
-:school: Facultad de ingenieria y ciencias hídricas. 🌎 Argentine - Santa Fe.
+• Convirtiendo café y mates en código desde 2016. <br/>
+• Aquí subo algunos de mis proyectos personales como también práctica académica relacionada a la progamación.   <br/>
+• Facultad de ingenieria y ciencias hídricas. Argentina - Santa Fe.
 
 <!-- YOUTUBE VIDEOS -->
 <details>
@@ -26,17 +26,20 @@ Mis repositorios ordenados <a href="https://github.com/CodigoWaldo?tab=stars">aq
 
 <!-- Links -->
 <p align="center">
-  <a href="https://codigowaldo.github.io/">
-    <img src="https://img.shields.io/static/v1?label=MyWeb&message=View&color=6E46AE&style=flat&logo=html5&logoColor=9f63ff" />
+  <a href="https://waltervoegeli.com.ar/">
+    <img src="https://img.shields.io/static/v1?label=SitioWeb&message=Ver&color=6E46AE&style=flat&logo=htmx&logoColor=9f63ff" />
+  </a>
+  <a href="https://www.linkedin.com/in/waltervoegeli/">    
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ver&color=0e76a8&style=flat&logo=Linkedin&logoColor=FF0000" />
   </a>
   <a href="https://www.youtube.com/@CodigoWaldo">
-    <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
+    <img src="https://img.shields.io/static/v1?label=YouTube&message=Ver&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a>
   <a href="https://sourceforge.net/u/waldovoe/profile">
-    <img src="https://img.shields.io/static/v1?label=SourceForge&message=Projects&color=ff6600&style=flat&logo=sourceforge&logoColor=ff660" />
-  </a>
+    <img src="https://img.shields.io/static/v1?label=SourceForge&message=Ver&color=ff6600&style=flat&logo=sourceforge&logoColor=ff660" />
+  </a>  
    <a href="https://waldovoe.itch.io/">
-    <img src="https://img.shields.io/static/v1?label=Itchio&message=Projects&color=fe2448&style=flat&logo=Itch.io&logoColor=fe2448" />
+    <img src="https://img.shields.io/static/v1?label=Itchio&message=Ver&color=fe2448&style=flat&logo=Itch.io&logoColor=fe2448" />
   </a>
 </p>
 
